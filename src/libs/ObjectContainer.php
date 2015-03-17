@@ -3,7 +3,7 @@
  * User: wy
  * Date: 13-9-23
  * Time: 下午3:49
- * Todo:
+ * Todo: 无参构造对象容器
  */
 class ObjectContainer {
     private $_objects = array();
